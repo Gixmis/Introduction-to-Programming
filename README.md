@@ -16,3 +16,4 @@
 1. Běžně používané datové typy a třídy.
 1. Analýza výstupů programu (profiling)
 
+some relevant text on how to open the .py
